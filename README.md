@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @VedantNadgir
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Computer Engineering and Data Science at Umich
+- 🌱 I’m currently learning Computer Engineering and Data Science at Umich
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...vedantnadgir@gmail.com
-- 😄 Pronouns: ...he/him
+- 📫 How to reach me at vedantnadgir@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
