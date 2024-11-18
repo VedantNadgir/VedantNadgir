@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VedantNadgir
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Engineering and Data Science at Umich
+- 🌱 I’m currently learning Computer Engineering and Statistics at Umich
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at vedantnadgir@gmail.com
 - 😄 Pronouns: he/him
